@@ -1,3 +1,6 @@
+body{
+    overflow: hidden;
+}
 .navigation{
     list-style: none;
     padding: 0;
